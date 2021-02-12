@@ -1,0 +1,23 @@
+#UH server
+PORT= 3006
+PGUSER=cosc0181
+PGHOST=code.cs.uh.edu
+PGPASSWORD=1911655NT 
+PGDATABASE=COSC3380 
+PGPORT=5432 
+
+#local machine
+PORT= 3006
+PGUSER=postgres
+PGHOST=localhost
+PGPASSWORD=StarGear_123 
+PGDATABASE=bookings 
+PGPORT=5432 
+
+#aws
+PORT= 3006
+PGUSER=luonvuituoi
+PGHOST=test.cegj7mcgdf3k.us-east-2.rds.amazonaws.com
+PGPASSWORD=vuive123 
+PGDATABASE=test 
+PGPORT=5432 
