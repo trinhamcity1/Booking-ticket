@@ -1,1 +1,1 @@
-ayoy
+Go to server/.env and change the database to your local host!!!!
